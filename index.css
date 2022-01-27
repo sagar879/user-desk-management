@@ -1,0 +1,40 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+td {
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+.raw1 {
+    background-color: blanchedalmond;
+}
+.raw2 {
+    background-color: coral;
+}
+.sidebar {
+    background-color: cornsilk;
+}
+.footer {
+    background-color: darkkhaki;
+}
+.labelcss{
+    float: left;
+    width:33%
+}
+.displaytable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+}
+.error{
+    float: right;
+}
+.maincontent.td{
+    border: rosybrown 1px;
+}
